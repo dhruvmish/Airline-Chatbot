@@ -1,0 +1,7 @@
+Entity,Count,Description
+Airports,10,Airport locations and codes
+Airlines,10,Airline companies and information
+Aircraft Types,8,Aircraft models and capacities
+Passengers,100,Passenger personal information
+Flights,500,Flight schedules and pricing
+Bookings,300,Flight reservations and bookings

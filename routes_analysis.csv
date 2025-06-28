@@ -1,0 +1,90 @@
+route,origin_code,destination_code,flight_count,airline_count,airlines,min_economy_fare,max_economy_fare,avg_duration_hours
+Tokyo to Dubai,HND,DXB,12,8,"Qantas, Air France, American Airlines, British Airways, Air India, Emirates, United Airlines, Singapore Airlines",290,808,9.7
+Dubai to New York,DXB,JFK,12,8,"Qantas, Air France, American Airlines, British Airways, Air India, Emirates, United Airlines, Singapore Airlines",264,858,10.6
+New York to Tokyo,JFK,HND,11,5,"Qantas, Japan Airlines, Emirates, Singapore Airlines, Delta Air Lines",305,748,10.3
+Dubai to Sydney,DXB,SYD,10,7,"Air France, Japan Airlines, American Airlines, Air India, Emirates, United Airlines, Delta Air Lines",340,870,10.1
+Sydney to Singapore,SYD,SIN,10,7,"Qantas, Air France, American Airlines, British Airways, Air India, Emirates, United Airlines",299,849,10.1
+New York to London,JFK,LHR,10,7,"Air France, Japan Airlines, American Airlines, Air India, Emirates, Singapore Airlines, Delta Air Lines",203,735,7.7
+Los Angeles to Sydney,LAX,SYD,10,7,"Air France, Japan Airlines, American Airlines, British Airways, Air India, Emirates, Singapore Airlines",223,836,11.0
+Delhi to New York,DEL,JFK,9,6,"Qantas, American Airlines, Air India, Emirates, Singapore Airlines, Delta Air Lines",282,740,9.0
+London to New York,LHR,JFK,9,7,"Air France, Japan Airlines, American Airlines, British Airways, Air India, Emirates, Delta Air Lines",316,793,9.5
+Singapore to Sydney,SIN,SYD,9,6,"Qantas, Air France, American Airlines, British Airways, Air India, Singapore Airlines",310,888,10.3
+Paris to London,CDG,LHR,9,6,"Qantas, Air France, American Airlines, British Airways, Air India, Emirates",303,777,8.2
+London to Delhi,LHR,DEL,9,7,"Qantas, Air France, Japan Airlines, British Airways, Emirates, United Airlines, Delta Air Lines",213,822,8.7
+Sydney to Tokyo,SYD,HND,8,4,"Singapore Airlines, American Airlines, Emirates, United Airlines",343,879,10.8
+Dubai to Chicago,DXB,ORD,8,6,"Qantas, American Airlines, Emirates, United Airlines, Singapore Airlines, Delta Air Lines",291,716,8.6
+Paris to Singapore,CDG,SIN,8,6,"Qantas, Air France, Japan Airlines, British Airways, Singapore Airlines, Delta Air Lines",350,776,8.9
+Sydney to Chicago,SYD,ORD,8,6,"Air France, British Airways, Air India, United Airlines, Singapore Airlines, Delta Air Lines",239,794,11.4
+Los Angeles to London,LAX,LHR,8,4,"Japan Airlines, United Airlines, Qantas, Air India",289,686,8.9
+London to Chicago,LHR,ORD,7,7,"Qantas, Air France, American Airlines, British Airways, Emirates, United Airlines, Singapore Airlines",349,874,11.2
+Chicago to New York,ORD,JFK,7,6,"Qantas, American Airlines, British Airways, Emirates, United Airlines, Delta Air Lines",169,248,2.3
+Singapore to Delhi,SIN,DEL,7,5,"American Airlines, Air India, Emirates, Singapore Airlines, Delta Air Lines",381,823,9.1
+Sydney to New York,SYD,JFK,7,6,"Japan Airlines, American Airlines, British Airways, Air India, Emirates, Singapore Airlines",433,788,9.0
+New York to Chicago,JFK,ORD,7,6,"American Airlines, British Airways, Air India, Emirates, United Airlines, Delta Air Lines",150,333,2.4
+Dubai to London,DXB,LHR,7,6,"Qantas, American Airlines, British Airways, Air India, Emirates, Singapore Airlines",326,872,8.4
+Paris to Sydney,CDG,SYD,7,4,"Singapore Airlines, American Airlines, Air India, Air France",304,597,6.7
+Dubai to Los Angeles,DXB,LAX,7,6,"Qantas, Air France, American Airlines, British Airways, United Airlines, Singapore Airlines",422,853,9.8
+Sydney to Los Angeles,SYD,LAX,7,5,"Qantas, Air France, Japan Airlines, Air India, Delta Air Lines",234,880,11.1
+Dubai to Paris,DXB,CDG,7,5,"American Airlines, British Airways, Air India, Emirates, Singapore Airlines",303,784,9.4
+Singapore to Chicago,SIN,ORD,7,5,"Qantas, British Airways, Emirates, United Airlines, Singapore Airlines",312,879,9.9
+London to Singapore,LHR,SIN,7,5,"Air France, Japan Airlines, British Airways, Singapore Airlines, Delta Air Lines",286,830,8.5
+New York to Paris,JFK,CDG,7,6,"Air France, Japan Airlines, American Airlines, Emirates, United Airlines, Delta Air Lines",260,869,11.0
+London to Tokyo,LHR,HND,6,3,"American Airlines, Delta Air Lines, Air France",664,848,12.6
+Paris to Dubai,CDG,DXB,6,6,"Qantas, Japan Airlines, American Airlines, Air India, Singapore Airlines, Delta Air Lines",388,798,9.0
+Delhi to Singapore,DEL,SIN,6,6,"Qantas, Japan Airlines, American Airlines, British Airways, Air India, Singapore Airlines",287,800,8.8
+Los Angeles to Chicago,LAX,ORD,6,4,"American Airlines, United Airlines, British Airways, Air France",145,281,2.5
+Delhi to Sydney,DEL,SYD,6,5,"Japan Airlines, American Airlines, British Airways, Singapore Airlines, Delta Air Lines",292,879,9.9
+Tokyo to Paris,HND,CDG,6,5,"Qantas, American Airlines, Air India, United Airlines, Delta Air Lines",294,695,8.2
+Chicago to Paris,ORD,CDG,6,6,"Air France, Japan Airlines, American Airlines, Air India, Emirates, Delta Air Lines",412,765,10.3
+London to Sydney,LHR,SYD,6,4,"Emirates, United Airlines, Singapore Airlines, American Airlines",337,845,11.4
+New York to Los Angeles,JFK,LAX,6,5,"Air France, American Airlines, Emirates, United Airlines, Singapore Airlines",103,285,1.9
+Tokyo to Sydney,HND,SYD,6,4,"Singapore Airlines, American Airlines, British Airways, Air France",426,829,9.0
+Delhi to Paris,DEL,CDG,6,5,"Qantas, Air France, American Airlines, Air India, Delta Air Lines",470,811,12.3
+Singapore to Paris,SIN,CDG,6,5,"Qantas, American Airlines, Air India, United Airlines, Delta Air Lines",262,753,8.9
+Chicago to Sydney,ORD,SYD,6,5,"American Airlines, Air India, United Airlines, Singapore Airlines, Delta Air Lines",381,775,11.0
+Tokyo to Chicago,HND,ORD,6,4,"Emirates, American Airlines, Qantas, Air France",335,845,10.3
+Paris to Chicago,CDG,ORD,6,5,"Japan Airlines, American Airlines, British Airways, Air India, Emirates",375,808,9.1
+New York to Dubai,JFK,DXB,5,5,"Air France, American Airlines, Air India, Singapore Airlines, Delta Air Lines",520,741,11.7
+Sydney to Dubai,SYD,DXB,5,4,"Japan Airlines, United Airlines, Delta Air Lines, American Airlines",363,787,7.2
+Paris to Tokyo,CDG,HND,5,4,"Singapore Airlines, Emirates, British Airways, Air France",207,519,6.2
+Singapore to London,SIN,LHR,5,4,"Emirates, American Airlines, Delta Air Lines, British Airways",240,656,7.0
+London to Dubai,LHR,DXB,5,5,"Japan Airlines, American Airlines, Air India, United Airlines, Singapore Airlines",323,608,6.7
+Dubai to Singapore,DXB,SIN,5,3,"Emirates, Air India, Air France",324,778,9.0
+Delhi to Chicago,DEL,ORD,5,5,"Qantas, Air France, British Airways, United Airlines, Singapore Airlines",329,621,6.2
+Los Angeles to Tokyo,LAX,HND,5,4,"Japan Airlines, Air France, Qantas, Air India",509,849,10.5
+Sydney to Paris,SYD,CDG,5,3,"Singapore Airlines, United Airlines, Air France",547,814,11.3
+Singapore to New York,SIN,JFK,5,5,"Air France, Japan Airlines, American Airlines, British Airways, Delta Air Lines",497,880,11.5
+Tokyo to London,HND,LHR,5,3,"Japan Airlines, Emirates, Air India",265,783,8.8
+Delhi to Dubai,DEL,DXB,5,5,"Qantas, American Airlines, Emirates, Singapore Airlines, Delta Air Lines",349,900,8.3
+New York to Sydney,JFK,SYD,5,3,"Emirates, British Airways, Air India",271,630,8.2
+Delhi to London,DEL,LHR,5,4,"American Airlines, Air India, Qantas, Air France",361,606,8.5
+Los Angeles to New York,LAX,JFK,4,3,"United Airlines, American Airlines, Air India",150,290,2.5
+Chicago to Los Angeles,ORD,LAX,4,4,"Japan Airlines, Singapore Airlines, United Airlines, American Airlines",105,298,1.9
+Singapore to Tokyo,SIN,HND,4,3,"Japan Airlines, United Airlines, Delta Air Lines",425,821,10.1
+London to Los Angeles,LHR,LAX,4,4,"American Airlines, Delta Air Lines, Qantas, Air France",525,787,9.5
+Chicago to Singapore,ORD,SIN,4,4,"Emirates, United Airlines, Qantas, Air France",391,793,9.7
+Tokyo to Singapore,HND,SIN,4,3,"Japan Airlines, Singapore Airlines, Emirates",245,758,9.3
+Paris to Los Angeles,CDG,LAX,4,3,"Delta Air Lines, British Airways, Air India",306,881,8.5
+Paris to Delhi,CDG,DEL,4,3,"Japan Airlines, United Airlines, Air India",592,841,11.7
+Paris to New York,CDG,JFK,4,3,"Japan Airlines, Singapore Airlines, Emirates",529,777,9.6
+Sydney to London,SYD,LHR,4,4,"Japan Airlines, American Airlines, Qantas, Air India",232,822,7.8
+Los Angeles to Delhi,LAX,DEL,4,3,"Japan Airlines, Emirates, American Airlines",274,873,11.4
+New York to Delhi,JFK,DEL,4,3,"Singapore Airlines, United Airlines, Delta Air Lines",298,814,10.3
+Sydney to Delhi,SYD,DEL,4,3,"Delta Air Lines, Qantas, Air France",218,795,10.0
+Tokyo to Los Angeles,HND,LAX,3,3,"United Airlines, Air India, Air France",602,847,12.1
+New York to Singapore,JFK,SIN,3,3,"Singapore Airlines, United Airlines, British Airways",542,818,12.2
+Delhi to Tokyo,DEL,HND,3,3,"Japan Airlines, Singapore Airlines, British Airways",394,708,10.2
+Chicago to Tokyo,ORD,HND,3,3,"Emirates, British Airways, Air France",322,778,8.4
+Tokyo to New York,HND,JFK,3,2,"Delta Air Lines, Qantas",267,772,8.4
+Singapore to Dubai,SIN,DXB,3,2,"American Airlines, Air India",498,733,9.8
+Los Angeles to Paris,LAX,CDG,3,3,"Japan Airlines, Singapore Airlines, American Airlines",305,660,8.0
+Los Angeles to Singapore,LAX,SIN,2,2,"Delta Air Lines, Air France",418,557,7.2
+Dubai to Tokyo,DXB,HND,2,2,"British Airways, Air France",406,552,6.9
+Singapore to Los Angeles,SIN,LAX,2,2,"Japan Airlines, Emirates",530,765,11.0
+Chicago to Delhi,ORD,DEL,2,2,"Singapore Airlines, American Airlines",487,759,10.5
+London to Paris,LHR,CDG,2,2,"Japan Airlines, Qantas",704,748,12.3
+Dubai to Delhi,DXB,DEL,2,2,"United Airlines, Delta Air Lines",317,661,7.6
+Chicago to Dubai,ORD,DXB,1,1,Singapore Airlines,685,685,12.8
+Los Angeles to Dubai,LAX,DXB,1,1,Japan Airlines,678,678,12.0
+Chicago to London,ORD,LHR,1,1,American Airlines,710,710,12.7
+Delhi to Los Angeles,DEL,LAX,1,1,Qantas,467,467,7.8

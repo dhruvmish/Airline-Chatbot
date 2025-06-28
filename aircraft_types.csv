@@ -1,0 +1,9 @@
+code,name,capacity
+B737,Boeing 737,180
+B747,Boeing 747,410
+B777,Boeing 777,300
+B787,Boeing 787,250
+A320,Airbus A320,180
+A330,Airbus A330,290
+A350,Airbus A350,325
+A380,Airbus A380,525

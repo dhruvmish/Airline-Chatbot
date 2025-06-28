@@ -1,0 +1,301 @@
+id,flight_id,passenger_id,booking_date,fare_class,fare_amount,taxes,fees,total_amount,currency,payment_status,payment_method,booking_status,seat_number,special_requests
+B00001,F00396,P00057,2025-06-21,Business,985,118,17,1120,USD,Failed,Debit Card,Pending,D20,Wheelchair assistance
+B00002,F00355,P00080,2025-06-04,Business,832,99,38,969,USD,Failed,Credit Card,Pending,C29,Vegetarian meal
+B00003,F00181,P00010,2025-06-13,First,1600,192,30,1822,USD,Pending,Bank Transfer,Pending,D6,Wheelchair assistance
+B00004,F00422,P00086,2025-06-15,Economy,335,40,42,417,USD,Paid,PayPal,Confirmed,D30,Medical assistance
+B00005,F00177,P00016,2025-04-27,Business,1520,182,38,1740,USD,Paid,Credit Card,Confirmed,A16,Medical assistance
+B00006,F00264,P00098,2025-05-06,Economy,705,84,37,826,USD,Paid,Debit Card,Confirmed,F40,Vegetarian meal
+B00007,F00115,P00023,2025-06-10,Economy,465,55,26,546,USD,Paid,Bank Transfer,Confirmed,A9,
+B00008,F00258,P00035,2025-05-08,Economy,778,93,43,914,USD,Failed,Bank Transfer,Pending,A5,
+B00009,F00271,P00034,2025-06-18,Premium Economy,825,99,27,951,USD,Failed,Credit Card,Pending,C34,
+B00010,F00069,P00018,2025-06-20,Economy,412,49,40,501,USD,Paid,Credit Card,Confirmed,E12,
+B00011,F00005,P00020,2025-05-28,Business,1532,183,21,1736,USD,Pending,Credit Card,Pending,A44,
+B00012,F00277,P00100,2025-05-23,Premium Economy,532,63,42,637,USD,Paid,Credit Card,Confirmed,B31,Wheelchair assistance
+B00013,F00404,P00079,2025-06-15,Premium Economy,1137,136,48,1321,USD,Paid,Credit Card,Confirmed,C37,
+B00014,F00018,P00078,2025-06-15,Economy,686,82,47,815,USD,Paid,Credit Card,Confirmed,A13,Medical assistance
+B00015,F00116,P00024,2025-05-21,Economy,320,38,43,401,USD,Paid,Debit Card,Confirmed,C14,
+B00016,F00210,P00053,2025-06-01,Economy,823,98,49,970,USD,Paid,Bank Transfer,Cancelled,B38,Infant bassinet
+B00017,F00498,P00071,2025-05-30,First,3364,403,25,3792,USD,Pending,PayPal,Pending,B35,
+B00018,F00207,P00082,2025-06-08,Economy,391,46,47,484,USD,Paid,Credit Card,Confirmed,A40,Vegetarian meal
+B00019,F00322,P00093,2025-05-03,Economy,793,95,32,920,USD,Failed,Debit Card,Pending,B14,Wheelchair assistance
+B00020,F00452,P00021,2025-06-04,Premium Economy,1081,129,33,1243,USD,Paid,Bank Transfer,Confirmed,B11,
+B00021,F00152,P00044,2025-04-30,Premium Economy,523,62,41,626,USD,Paid,Bank Transfer,Confirmed,A40,Extra legroom
+B00022,F00042,P00074,2025-04-26,Premium Economy,1041,124,45,1210,USD,Pending,Bank Transfer,Pending,A13,
+B00023,F00080,P00057,2025-06-19,Economy,590,70,25,685,USD,Pending,Credit Card,Pending,C43,
+B00024,F00270,P00021,2025-05-18,Economy,417,50,23,490,USD,Paid,Credit Card,Confirmed,A3,
+B00025,F00409,P00099,2025-05-05,Economy,564,67,16,647,USD,Paid,Debit Card,Confirmed,F30,Wheelchair assistance
+B00026,F00119,P00022,2025-05-12,First,2176,261,43,2480,USD,Paid,Credit Card,Confirmed,C2,Infant bassinet
+B00027,F00237,P00063,2025-05-15,First,2560,307,17,2884,USD,Paid,Credit Card,Cancelled,A6,Extra legroom
+B00028,F00017,P00030,2025-06-14,Economy,509,61,19,589,USD,Paid,Credit Card,Confirmed,B23,
+B00029,F00059,P00001,2025-06-30,First,2192,263,33,2488,USD,Paid,Debit Card,Confirmed,C50,Medical assistance
+B00030,F00099,P00070,2025-05-02,First,2616,313,44,2973,USD,Failed,PayPal,Pending,C43,
+B00031,F00323,P00075,2025-05-15,First,2628,315,33,2976,USD,Failed,Credit Card,Cancelled,B37,Wheelchair assistance
+B00032,F00265,P00039,2025-05-17,Premium Economy,154,18,40,212,USD,Pending,Debit Card,Pending,A41,Infant bassinet
+B00033,F00026,P00043,2025-05-31,Premium Economy,553,66,38,657,USD,Pending,Credit Card,Pending,D4,Infant bassinet
+B00034,F00251,P00025,2025-05-17,Economy,741,88,22,851,USD,Pending,Credit Card,Pending,B14,Medical assistance
+B00035,F00096,P00018,2025-06-05,Business,767,92,47,906,USD,Paid,Credit Card,Confirmed,D21,
+B00036,F00477,P00072,2025-05-05,Economy,597,71,32,700,USD,Paid,Bank Transfer,Cancelled,D13,Extra legroom
+B00037,F00287,P00004,2025-05-08,Economy,635,76,27,738,USD,Paid,Credit Card,Confirmed,D38,
+B00038,F00174,P00097,2025-06-13,Economy,237,28,20,285,USD,Paid,Credit Card,Confirmed,E45,Wheelchair assistance
+B00039,F00096,P00099,2025-06-10,Premium Economy,460,55,32,547,USD,Failed,Debit Card,Pending,C50,Medical assistance
+B00040,F00050,P00068,2025-06-11,Business,1790,214,44,2048,USD,Pending,PayPal,Pending,A18,Wheelchair assistance
+B00041,F00227,P00073,2025-05-01,Economy,519,62,17,598,USD,Paid,Credit Card,Confirmed,C20,Vegetarian meal
+B00042,F00235,P00073,2025-05-25,Premium Economy,301,36,35,372,USD,Paid,Credit Card,Cancelled,B27,Wheelchair assistance
+B00043,F00481,P00042,2025-05-02,Business,790,94,26,910,USD,Pending,Bank Transfer,Pending,E34,Medical assistance
+B00044,F00127,P00067,2025-04-24,Business,902,108,50,1060,USD,Failed,PayPal,Pending,A47,
+B00045,F00061,P00075,2025-06-10,Economy,797,95,31,923,USD,Paid,Credit Card,Confirmed,C30,Extra legroom
+B00046,F00186,P00057,2025-05-31,Business,600,72,43,715,USD,Failed,Credit Card,Pending,E15,
+B00047,F00023,P00099,2025-05-22,First,1724,206,42,1972,USD,Paid,Credit Card,Confirmed,E29,
+B00048,F00280,P00055,2025-05-10,Economy,427,51,29,507,USD,Paid,Bank Transfer,Confirmed,D15,Extra legroom
+B00049,F00377,P00096,2025-05-28,Premium Economy,1321,158,45,1524,USD,Failed,Debit Card,Pending,A46,
+B00050,F00042,P00083,2025-05-05,Business,1735,208,19,1962,USD,Paid,Credit Card,Confirmed,E20,Medical assistance
+B00051,F00429,P00041,2025-06-01,Premium Economy,909,109,48,1066,USD,Paid,PayPal,Confirmed,D8,Wheelchair assistance
+B00052,F00328,P00057,2025-05-19,First,2580,309,24,2913,USD,Paid,PayPal,Confirmed,D18,
+B00053,F00489,P00027,2025-05-30,Business,1580,189,27,1796,USD,Paid,PayPal,Confirmed,C22,Infant bassinet
+B00054,F00481,P00049,2025-05-01,Business,790,94,38,922,USD,Paid,Credit Card,Confirmed,B32,Medical assistance
+B00055,F00386,P00068,2025-07-05,First,2492,299,24,2815,USD,Failed,Bank Transfer,Pending,C32,Extra legroom
+B00056,F00425,P00052,2025-07-01,Premium Economy,396,47,32,475,USD,Paid,Debit Card,Confirmed,D33,
+B00057,F00369,P00047,2025-06-21,Premium Economy,1005,120,30,1155,USD,Paid,PayPal,Confirmed,F31,Vegetarian meal
+B00058,F00424,P00084,2025-05-07,Business,1565,187,27,1779,USD,Paid,PayPal,Confirmed,B37,Infant bassinet
+B00059,F00064,P00014,2025-06-26,Business,1722,206,31,1959,USD,Paid,PayPal,Confirmed,D24,
+B00060,F00157,P00077,2025-06-13,First,2480,297,26,2803,USD,Failed,Credit Card,Cancelled,E32,Medical assistance
+B00061,F00276,P00080,2025-05-30,Business,1987,238,47,2272,USD,Paid,Credit Card,Confirmed,E19,Extra legroom
+B00062,F00078,P00059,2025-04-30,Economy,618,74,25,717,USD,Failed,Debit Card,Pending,C29,
+B00063,F00413,P00095,2025-04-20,First,2228,267,19,2514,USD,Pending,PayPal,Pending,E48,Extra legroom
+B00064,F00239,P00039,2025-06-26,Business,2180,261,37,2478,USD,Paid,Credit Card,Confirmed,E8,
+B00065,F00358,P00070,2025-06-07,Premium Economy,925,111,25,1061,USD,Failed,Credit Card,Pending,C43,Infant bassinet
+B00066,F00376,P00055,2025-05-03,Business,1665,199,29,1893,USD,Pending,PayPal,Pending,A10,Wheelchair assistance
+B00067,F00119,P00024,2025-05-21,Economy,544,65,19,628,USD,Paid,Credit Card,Confirmed,D15,Vegetarian meal
+B00068,F00120,P00055,2025-07-01,First,1988,238,44,2270,USD,Paid,Credit Card,Confirmed,B33,
+B00069,F00279,P00010,2025-05-14,First,1468,176,22,1666,USD,Paid,PayPal,Confirmed,A3,Vegetarian meal
+B00070,F00001,P00069,2025-05-28,Premium Economy,1062,127,46,1235,USD,Paid,Credit Card,Cancelled,F12,
+B00071,F00300,P00022,2025-06-07,Premium Economy,1143,137,21,1301,USD,Paid,Credit Card,Confirmed,C43,
+B00072,F00369,P00056,2025-05-15,Economy,670,80,22,772,USD,Failed,Debit Card,Pending,C17,Infant bassinet
+B00073,F00432,P00043,2025-06-16,First,3080,369,23,3472,USD,Paid,Debit Card,Confirmed,A27,Vegetarian meal
+B00074,F00031,P00024,2025-05-21,First,2920,350,19,3289,USD,Failed,Credit Card,Pending,A15,
+B00075,F00042,P00058,2025-05-16,Premium Economy,1041,124,21,1186,USD,Paid,PayPal,Confirmed,F6,Medical assistance
+B00076,F00164,P00053,2025-04-28,Premium Economy,793,95,42,930,USD,Failed,Debit Card,Cancelled,C22,Extra legroom
+B00077,F00156,P00097,2025-06-26,Economy,748,89,48,885,USD,Failed,Credit Card,Pending,E23,
+B00078,F00291,P00061,2025-06-21,Business,477,57,16,550,USD,Pending,Credit Card,Pending,B31,
+B00079,F00126,P00046,2025-06-02,Business,1342,161,25,1528,USD,Failed,Bank Transfer,Pending,D28,Infant bassinet
+B00080,F00093,P00079,2025-04-22,Economy,555,66,41,662,USD,Paid,PayPal,Confirmed,D31,Vegetarian meal
+B00081,F00496,P00023,2025-07-07,Premium Economy,571,68,37,676,USD,Paid,Credit Card,Confirmed,E27,Wheelchair assistance
+B00082,F00046,P00096,2025-05-04,Economy,282,33,44,359,USD,Paid,Credit Card,Cancelled,D21,
+B00083,F00174,P00004,2025-06-20,First,948,113,34,1095,USD,Pending,Credit Card,Pending,A50,
+B00084,F00084,P00061,2025-06-21,Premium Economy,1158,138,32,1328,USD,Paid,Bank Transfer,Confirmed,D45,
+B00085,F00482,P00099,2025-06-10,Economy,423,50,42,515,USD,Paid,Credit Card,Confirmed,B22,Medical assistance
+B00086,F00282,P00100,2025-05-03,Premium Economy,235,28,44,307,USD,Paid,Credit Card,Confirmed,E50,
+B00087,F00266,P00048,2025-06-14,First,2328,279,48,2655,USD,Paid,Credit Card,Confirmed,A37,
+B00088,F00131,P00084,2025-05-10,Economy,516,61,46,623,USD,Paid,Credit Card,Confirmed,E48,
+B00089,F00219,P00067,2025-06-22,First,3344,401,48,3793,USD,Paid,Credit Card,Confirmed,A39,
+B00090,F00177,P00058,2025-06-08,First,2432,291,35,2758,USD,Failed,Credit Card,Pending,C4,Vegetarian meal
+B00091,F00398,P00009,2025-07-02,Business,1380,165,34,1579,USD,Paid,PayPal,Confirmed,A29,
+B00092,F00169,P00038,2025-05-31,Economy,569,68,36,673,USD,Paid,Debit Card,Confirmed,C19,Extra legroom
+B00093,F00072,P00078,2025-06-16,Business,1590,190,37,1817,USD,Paid,Credit Card,Confirmed,B3,
+B00094,F00210,P00036,2025-06-19,Business,2057,246,45,2348,USD,Paid,Credit Card,Cancelled,E45,Wheelchair assistance
+B00095,F00017,P00015,2025-04-26,Premium Economy,763,91,25,879,USD,Pending,Bank Transfer,Pending,A37,Infant bassinet
+B00096,F00417,P00077,2025-04-20,Economy,828,99,21,948,USD,Paid,Credit Card,Confirmed,D47,Infant bassinet
+B00097,F00357,P00053,2025-06-16,Business,972,116,47,1135,USD,Paid,Bank Transfer,Confirmed,A5,Vegetarian meal
+B00098,F00442,P00048,2025-06-15,Premium Economy,931,111,39,1081,USD,Paid,Credit Card,Confirmed,A6,Infant bassinet
+B00099,F00158,P00010,2025-05-15,Business,762,91,49,902,USD,Failed,Credit Card,Pending,C47,
+B00100,F00231,P00004,2025-05-01,Economy,287,34,30,351,USD,Failed,Debit Card,Pending,A29,
+B00101,F00415,P00066,2025-06-17,First,2852,342,45,3239,USD,Paid,Credit Card,Cancelled,F14,
+B00102,F00297,P00008,2025-06-29,First,656,78,17,751,USD,Paid,Debit Card,Confirmed,D37,Infant bassinet
+B00103,F00462,P00010,2025-05-31,First,2424,290,43,2757,USD,Paid,Debit Card,Confirmed,E10,Infant bassinet
+B00104,F00242,P00096,2025-07-03,Premium Economy,1165,139,49,1353,USD,Paid,Bank Transfer,Confirmed,E34,Vegetarian meal
+B00105,F00499,P00087,2025-05-04,Business,1375,165,22,1562,USD,Failed,PayPal,Pending,C48,Medical assistance
+B00106,F00407,P00098,2025-06-06,Economy,713,85,47,845,USD,Paid,Bank Transfer,Confirmed,E21,Infant bassinet
+B00107,F00151,P00070,2025-05-16,Business,1167,140,37,1344,USD,Pending,Credit Card,Pending,F3,
+B00108,F00422,P00058,2025-06-21,Business,837,100,34,971,USD,Paid,Debit Card,Confirmed,E35,
+B00109,F00362,P00061,2025-05-23,Business,1112,133,34,1279,USD,Pending,Bank Transfer,Pending,E27,Medical assistance
+B00110,F00455,P00027,2025-05-19,Economy,425,51,48,524,USD,Paid,Debit Card,Confirmed,E42,Medical assistance
+B00111,F00431,P00029,2025-06-29,Premium Economy,880,105,27,1012,USD,Paid,Credit Card,Confirmed,D25,
+B00112,F00155,P00038,2025-05-28,Economy,808,96,43,947,USD,Paid,Bank Transfer,Confirmed,C41,Extra legroom
+B00113,F00001,P00044,2025-06-05,Economy,708,84,47,839,USD,Paid,Debit Card,Cancelled,D49,
+B00114,F00057,P00097,2025-05-10,First,1552,186,16,1754,USD,Failed,Debit Card,Pending,F38,Vegetarian meal
+B00115,F00436,P00070,2025-05-30,Premium Economy,868,104,17,989,USD,Paid,Credit Card,Confirmed,F8,
+B00116,F00196,P00074,2025-06-08,Premium Economy,1021,122,25,1168,USD,Paid,Debit Card,Confirmed,C50,
+B00117,F00500,P00073,2025-06-04,Economy,329,39,41,409,USD,Paid,Debit Card,Confirmed,A9,Extra legroom
+B00118,F00323,P00099,2025-04-26,First,2628,315,36,2979,USD,Pending,Bank Transfer,Cancelled,D19,
+B00119,F00008,P00050,2025-06-18,Premium Economy,589,70,37,696,USD,Paid,Debit Card,Confirmed,F41,Vegetarian meal
+B00120,F00458,P00065,2025-05-31,Economy,299,35,20,354,USD,Paid,Credit Card,Confirmed,C6,Infant bassinet
+B00121,F00343,P00031,2025-05-07,Economy,512,61,24,597,USD,Paid,Debit Card,Confirmed,E27,
+B00122,F00076,P00024,2025-05-24,First,2096,251,46,2393,USD,Pending,Credit Card,Cancelled,E13,Extra legroom
+B00123,F00277,P00045,2025-06-14,Premium Economy,532,63,22,617,USD,Paid,Debit Card,Confirmed,A26,Wheelchair assistance
+B00124,F00457,P00030,2025-05-04,Economy,478,57,22,557,USD,Pending,Bank Transfer,Pending,B17,
+B00125,F00306,P00054,2025-06-05,Business,1520,182,41,1743,USD,Paid,Bank Transfer,Confirmed,A34,Medical assistance
+B00126,F00446,P00031,2025-04-30,Business,927,111,22,1060,USD,Paid,Credit Card,Confirmed,A46,Infant bassinet
+B00127,F00429,P00030,2025-04-21,Economy,606,72,28,706,USD,Paid,PayPal,Confirmed,F2,
+B00128,F00376,P00041,2025-04-24,Business,1665,199,34,1898,USD,Paid,Bank Transfer,Confirmed,A5,
+B00129,F00300,P00080,2025-05-07,First,3048,365,24,3437,USD,Failed,Credit Card,Pending,E20,Infant bassinet
+B00130,F00176,P00026,2025-06-06,First,1808,216,19,2043,USD,Failed,Credit Card,Cancelled,D15,Medical assistance
+B00131,F00374,P00098,2025-06-10,Business,1437,172,49,1658,USD,Pending,Credit Card,Pending,F21,
+B00132,F00347,P00095,2025-06-03,Business,1312,157,40,1509,USD,Paid,Bank Transfer,Confirmed,D18,Extra legroom
+B00133,F00215,P00052,2025-05-17,First,2940,352,37,3329,USD,Pending,Credit Card,Pending,E36,Medical assistance
+B00134,F00262,P00060,2025-05-09,Premium Economy,949,113,37,1099,USD,Paid,Bank Transfer,Confirmed,E13,
+B00135,F00368,P00024,2025-05-07,Business,2112,253,47,2412,USD,Paid,Bank Transfer,Confirmed,B22,Wheelchair assistance
+B00136,F00470,P00027,2025-04-23,Premium Economy,841,100,21,962,USD,Failed,Credit Card,Pending,F24,
+B00137,F00266,P00083,2025-05-28,First,2328,279,47,2654,USD,Paid,Credit Card,Confirmed,D13,
+B00138,F00095,P00045,2025-05-09,First,1992,239,43,2274,USD,Pending,Credit Card,Cancelled,A2,Vegetarian meal
+B00139,F00061,P00027,2025-05-27,Business,1992,239,33,2264,USD,Failed,Credit Card,Pending,A37,Extra legroom
+B00140,F00264,P00027,2025-05-06,First,2820,338,34,3192,USD,Paid,Credit Card,Confirmed,D7,Infant bassinet
+B00141,F00477,P00066,2025-06-20,Business,1492,179,16,1687,USD,Paid,PayPal,Cancelled,B26,Infant bassinet
+B00142,F00257,P00015,2025-05-04,Premium Economy,912,109,31,1052,USD,Paid,Debit Card,Confirmed,F43,
+B00143,F00199,P00022,2025-06-03,First,2832,339,42,3213,USD,Pending,Debit Card,Cancelled,A28,Wheelchair assistance
+B00144,F00274,P00059,2025-06-26,Business,967,116,46,1129,USD,Failed,Credit Card,Pending,B24,Wheelchair assistance
+B00145,F00415,P00058,2025-05-11,First,2852,342,41,3235,USD,Paid,PayPal,Cancelled,C14,Medical assistance
+B00146,F00326,P00073,2025-05-13,First,1340,160,19,1519,USD,Failed,Credit Card,Pending,B22,
+B00147,F00106,P00076,2025-05-05,Economy,561,67,30,658,USD,Paid,Bank Transfer,Confirmed,F10,
+B00148,F00113,P00008,2025-06-27,Economy,620,74,49,743,USD,Paid,PayPal,Confirmed,A49,Vegetarian meal
+B00149,F00047,P00045,2025-04-27,First,2792,335,44,3171,USD,Failed,Credit Card,Cancelled,A31,
+B00150,F00028,P00013,2025-06-09,Economy,422,50,35,507,USD,Paid,Bank Transfer,Confirmed,A20,Infant bassinet
+B00151,F00088,P00040,2025-06-14,Premium Economy,1168,140,36,1344,USD,Paid,Debit Card,Cancelled,C40,Infant bassinet
+B00152,F00202,P00016,2025-06-04,Business,2197,263,42,2502,USD,Pending,Credit Card,Pending,F34,Extra legroom
+B00153,F00275,P00070,2025-06-02,First,1768,212,47,2027,USD,Paid,Bank Transfer,Confirmed,A11,Extra legroom
+B00154,F00424,P00094,2025-06-04,Economy,626,75,19,720,USD,Paid,PayPal,Confirmed,A41,Medical assistance
+B00155,F00021,P00068,2025-06-29,First,2844,341,33,3218,USD,Paid,Credit Card,Confirmed,C12,Infant bassinet
+B00156,F00419,P00068,2025-05-30,Premium Economy,849,101,22,972,USD,Failed,Credit Card,Cancelled,E21,
+B00157,F00218,P00077,2025-05-18,First,3240,388,22,3650,USD,Pending,Credit Card,Pending,B19,Wheelchair assistance
+B00158,F00243,P00070,2025-05-30,Economy,234,28,24,286,USD,Paid,Credit Card,Confirmed,D19,
+B00159,F00417,P00034,2025-04-27,First,3312,397,33,3742,USD,Pending,PayPal,Pending,B15,Medical assistance
+B00160,F00425,P00056,2025-07-04,First,1056,126,30,1212,USD,Paid,Debit Card,Confirmed,B26,
+B00161,F00499,P00060,2025-05-13,Premium Economy,825,99,49,973,USD,Paid,Credit Card,Confirmed,E36,Medical assistance
+B00162,F00312,P00099,2025-05-14,Business,1965,235,44,2244,USD,Paid,Credit Card,Confirmed,C41,Vegetarian meal
+B00163,F00154,P00072,2025-05-11,Economy,658,78,39,775,USD,Paid,PayPal,Confirmed,F18,
+B00164,F00383,P00004,2025-05-12,First,1996,239,31,2266,USD,Paid,PayPal,Confirmed,A18,Medical assistance
+B00165,F00324,P00023,2025-05-09,Premium Economy,1182,141,31,1354,USD,Paid,Credit Card,Confirmed,B40,Infant bassinet
+B00166,F00440,P00071,2025-05-28,Economy,602,72,17,691,USD,Paid,Debit Card,Cancelled,C47,Extra legroom
+B00167,F00340,P00097,2025-06-21,Economy,679,81,28,788,USD,Pending,PayPal,Pending,C22,Extra legroom
+B00168,F00046,P00023,2025-05-04,First,1128,135,21,1284,USD,Paid,Debit Card,Cancelled,D19,Vegetarian meal
+B00169,F00009,P00087,2025-05-10,Premium Economy,1017,122,34,1173,USD,Paid,Debit Card,Confirmed,C34,Wheelchair assistance
+B00170,F00186,P00048,2025-06-09,Economy,240,28,40,308,USD,Pending,PayPal,Pending,F17,Extra legroom
+B00171,F00270,P00029,2025-06-02,Premium Economy,625,75,19,719,USD,Paid,Debit Card,Confirmed,C29,Extra legroom
+B00172,F00146,P00026,2025-06-07,Premium Economy,739,88,46,873,USD,Failed,Credit Card,Pending,A41,
+B00173,F00142,P00050,2025-05-18,Business,1322,158,50,1530,USD,Paid,Credit Card,Confirmed,C38,Infant bassinet
+B00174,F00117,P00078,2025-06-28,Economy,728,87,23,838,USD,Paid,Credit Card,Confirmed,C6,Extra legroom
+B00175,F00461,P00019,2025-05-31,Premium Economy,1227,147,41,1415,USD,Paid,PayPal,Confirmed,A38,Wheelchair assistance
+B00176,F00362,P00045,2025-06-09,Economy,445,53,37,535,USD,Paid,PayPal,Confirmed,B38,
+B00177,F00380,P00024,2025-05-26,Economy,765,91,40,896,USD,Pending,PayPal,Pending,B7,Wheelchair assistance
+B00178,F00143,P00005,2025-07-11,First,1100,132,23,1255,USD,Paid,PayPal,Confirmed,C23,
+B00179,F00457,P00096,2025-05-18,First,1912,229,17,2158,USD,Paid,Bank Transfer,Confirmed,E8,
+B00180,F00297,P00078,2025-05-24,Economy,164,19,38,221,USD,Paid,Credit Card,Confirmed,E28,Vegetarian meal
+B00181,F00443,P00073,2025-05-18,Business,812,97,24,933,USD,Paid,Debit Card,Confirmed,E31,Infant bassinet
+B00182,F00280,P00033,2025-06-03,Business,1067,128,23,1218,USD,Paid,Bank Transfer,Confirmed,A17,
+B00183,F00435,P00063,2025-05-21,First,3172,380,48,3600,USD,Failed,Credit Card,Pending,D48,Medical assistance
+B00184,F00174,P00057,2025-05-14,Business,592,71,34,697,USD,Pending,PayPal,Pending,F23,
+B00185,F00207,P00071,2025-06-04,Premium Economy,586,70,24,680,USD,Paid,Bank Transfer,Confirmed,E7,Vegetarian meal
+B00186,F00111,P00018,2025-05-13,Premium Economy,931,111,39,1081,USD,Failed,Credit Card,Pending,E25,Infant bassinet
+B00187,F00162,P00085,2025-06-01,First,1580,189,28,1797,USD,Paid,Bank Transfer,Confirmed,C25,Infant bassinet
+B00188,F00318,P00093,2025-06-21,Business,2090,250,47,2387,USD,Paid,Credit Card,Confirmed,E33,
+B00189,F00201,P00052,2025-07-03,Economy,768,92,22,882,USD,Failed,Debit Card,Pending,A21,Infant bassinet
+B00190,F00427,P00007,2025-06-12,Economy,337,40,46,423,USD,Paid,Debit Card,Cancelled,F21,
+B00191,F00237,P00011,2025-04-29,Business,1600,192,46,1838,USD,Paid,Credit Card,Cancelled,C22,Medical assistance
+B00192,F00499,P00068,2025-04-20,Economy,550,66,47,663,USD,Paid,Credit Card,Confirmed,F30,
+B00193,F00056,P00069,2025-05-16,Business,1295,155,23,1473,USD,Paid,Credit Card,Confirmed,A5,Vegetarian meal
+B00194,F00250,P00090,2025-06-23,First,3176,381,50,3607,USD,Paid,PayPal,Cancelled,C48,
+B00195,F00278,P00023,2025-06-13,Premium Economy,639,76,39,754,USD,Failed,Credit Card,Pending,A2,
+B00196,F00422,P00100,2025-05-19,First,1340,160,28,1528,USD,Failed,PayPal,Pending,F20,Vegetarian meal
+B00197,F00433,P00099,2025-04-23,Economy,721,86,22,829,USD,Paid,Credit Card,Confirmed,C42,Extra legroom
+B00198,F00068,P00099,2025-06-12,Business,857,102,32,991,USD,Paid,PayPal,Confirmed,D45,Vegetarian meal
+B00199,F00008,P00028,2025-05-18,Economy,393,47,15,455,USD,Paid,Credit Card,Confirmed,A42,Wheelchair assistance
+B00200,F00216,P00030,2025-04-19,First,1752,210,36,1998,USD,Paid,Bank Transfer,Confirmed,C28,
+B00201,F00206,P00005,2025-06-03,Economy,606,72,40,718,USD,Paid,Credit Card,Cancelled,E40,Vegetarian meal
+B00202,F00069,P00091,2025-06-02,Premium Economy,618,74,30,722,USD,Paid,Credit Card,Confirmed,E2,Medical assistance
+B00203,F00220,P00035,2025-05-22,First,2324,278,43,2645,USD,Failed,Debit Card,Pending,C10,
+B00204,F00198,P00044,2025-05-23,Premium Economy,778,93,42,913,USD,Paid,Credit Card,Confirmed,B49,
+B00205,F00029,P00040,2025-06-30,Business,1530,183,19,1732,USD,Paid,Debit Card,Confirmed,F50,Medical assistance
+B00206,F00382,P00042,2025-05-24,Business,765,91,21,877,USD,Paid,Debit Card,Confirmed,C42,Infant bassinet
+B00207,F00351,P00058,2025-06-10,Economy,290,34,28,352,USD,Failed,Credit Card,Pending,C36,Extra legroom
+B00208,F00057,P00055,2025-07-02,First,1552,186,36,1774,USD,Failed,Bank Transfer,Pending,E22,Extra legroom
+B00209,F00413,P00093,2025-05-28,Business,1392,167,50,1609,USD,Paid,Credit Card,Confirmed,C43,Medical assistance
+B00210,F00168,P00070,2025-05-07,Business,805,96,42,943,USD,Pending,Debit Card,Cancelled,F6,
+B00211,F00138,P00019,2025-06-26,Premium Economy,1042,125,29,1196,USD,Paid,Credit Card,Confirmed,C2,Medical assistance
+B00212,F00497,P00031,2025-05-15,First,1216,145,23,1384,USD,Paid,Debit Card,Confirmed,A6,Medical assistance
+B00213,F00093,P00040,2025-04-27,Premium Economy,832,99,39,970,USD,Failed,Credit Card,Pending,B34,
+B00214,F00055,P00007,2025-06-11,Economy,239,28,37,304,USD,Paid,Bank Transfer,Confirmed,B29,Wheelchair assistance
+B00215,F00080,P00072,2025-05-01,Business,1475,177,27,1679,USD,Paid,Credit Card,Confirmed,B32,
+B00216,F00294,P00099,2025-05-16,First,1528,183,34,1745,USD,Pending,Credit Card,Pending,C5,Medical assistance
+B00217,F00343,P00002,2025-06-07,Business,1280,153,48,1481,USD,Paid,Credit Card,Confirmed,C40,Infant bassinet
+B00218,F00125,P00100,2025-05-15,Premium Economy,331,39,42,412,USD,Paid,Credit Card,Confirmed,D24,Extra legroom
+B00219,F00380,P00069,2025-05-05,Business,1912,229,30,2171,USD,Paid,Debit Card,Confirmed,E7,
+B00220,F00186,P00085,2025-04-27,Premium Economy,360,43,31,434,USD,Paid,Credit Card,Confirmed,C11,
+B00221,F00311,P00086,2025-05-25,Business,775,93,31,899,USD,Paid,Bank Transfer,Confirmed,B3,
+B00222,F00229,P00055,2025-05-17,First,3412,409,37,3858,USD,Paid,Credit Card,Confirmed,F23,Medical assistance
+B00223,F00208,P00085,2025-05-23,Business,837,100,20,957,USD,Failed,PayPal,Pending,C37,Infant bassinet
+B00224,F00242,P00025,2025-07-02,First,3108,372,16,3496,USD,Failed,Credit Card,Pending,B27,Vegetarian meal
+B00225,F00120,P00092,2025-06-18,Business,1242,149,37,1428,USD,Failed,Credit Card,Pending,F20,Medical assistance
+B00226,F00274,P00066,2025-05-13,Business,967,116,19,1102,USD,Paid,Credit Card,Confirmed,C12,Extra legroom
+B00227,F00012,P00060,2025-05-23,Premium Economy,678,81,17,776,USD,Paid,Bank Transfer,Cancelled,B5,
+B00228,F00216,P00100,2025-06-09,Economy,438,52,27,517,USD,Pending,Credit Card,Pending,D36,Medical assistance
+B00229,F00139,P00018,2025-05-14,Business,1822,218,44,2084,USD,Paid,Bank Transfer,Confirmed,A8,Extra legroom
+B00230,F00075,P00083,2025-06-17,Business,920,110,38,1068,USD,Paid,Credit Card,Confirmed,C11,
+B00231,F00401,P00080,2025-05-09,Economy,372,44,31,447,USD,Failed,Credit Card,Pending,A10,
+B00232,F00065,P00014,2025-05-18,Economy,880,105,34,1019,USD,Paid,Credit Card,Confirmed,B9,Medical assistance
+B00233,F00163,P00031,2025-06-24,Business,1765,211,44,2020,USD,Failed,Credit Card,Cancelled,F37,Vegetarian meal
+B00234,F00109,P00013,2025-05-14,Business,2045,245,18,2308,USD,Paid,Credit Card,Confirmed,C32,Infant bassinet
+B00235,F00037,P00032,2025-05-24,Premium Economy,1162,139,20,1321,USD,Failed,PayPal,Pending,A40,Infant bassinet
+B00236,F00032,P00048,2025-05-25,Premium Economy,1164,139,31,1334,USD,Failed,PayPal,Pending,C21,
+B00237,F00177,P00002,2025-06-23,Economy,608,72,50,730,USD,Paid,Credit Card,Confirmed,B47,
+B00238,F00304,P00089,2025-05-13,Economy,778,93,50,921,USD,Pending,Credit Card,Pending,D30,Infant bassinet
+B00239,F00076,P00083,2025-05-11,Economy,524,62,35,621,USD,Paid,Credit Card,Cancelled,E18,
+B00240,F00032,P00029,2025-06-13,Economy,776,93,42,911,USD,Paid,Credit Card,Confirmed,F7,Infant bassinet
+B00241,F00413,P00094,2025-05-14,Economy,557,66,17,640,USD,Failed,Bank Transfer,Pending,D11,Wheelchair assistance
+B00242,F00115,P00025,2025-05-13,Business,1162,139,32,1333,USD,Pending,Bank Transfer,Pending,A45,Infant bassinet
+B00243,F00024,P00047,2025-05-24,Premium Economy,352,42,41,435,USD,Pending,Debit Card,Pending,A34,Infant bassinet
+B00244,F00478,P00022,2025-06-12,Economy,618,74,16,708,USD,Paid,Debit Card,Confirmed,A40,Extra legroom
+B00245,F00315,P00027,2025-04-19,First,3136,376,22,3534,USD,Failed,Credit Card,Pending,A37,
+B00246,F00028,P00047,2025-05-03,Premium Economy,633,75,39,747,USD,Failed,PayPal,Pending,F33,
+B00247,F00498,P00021,2025-06-19,Premium Economy,1261,151,37,1449,USD,Paid,Credit Card,Confirmed,E14,Wheelchair assistance
+B00248,F00027,P00077,2025-05-30,Economy,426,51,36,513,USD,Paid,PayPal,Confirmed,D38,Medical assistance
+B00249,F00260,P00095,2025-06-16,Premium Economy,999,119,19,1137,USD,Paid,Credit Card,Confirmed,D35,Extra legroom
+B00250,F00093,P00088,2025-04-23,Business,1387,166,48,1601,USD,Paid,Credit Card,Confirmed,A3,
+B00251,F00332,P00088,2025-04-30,Business,1715,205,35,1955,USD,Paid,Credit Card,Confirmed,E6,Extra legroom
+B00252,F00108,P00098,2025-06-06,First,2256,270,28,2554,USD,Paid,Credit Card,Confirmed,E16,
+B00253,F00038,P00057,2025-05-11,Economy,281,33,18,332,USD,Pending,Credit Card,Pending,A48,
+B00254,F00039,P00056,2025-05-15,First,788,94,33,915,USD,Pending,Bank Transfer,Cancelled,F14,Extra legroom
+B00255,F00197,P00051,2025-06-06,Premium Economy,790,94,20,904,USD,Paid,Bank Transfer,Cancelled,C45,
+B00256,F00445,P00042,2025-06-19,Business,1927,231,36,2194,USD,Paid,PayPal,Confirmed,C48,
+B00257,F00380,P00038,2025-05-09,Business,1912,229,45,2186,USD,Pending,PayPal,Pending,A4,Infant bassinet
+B00258,F00249,P00041,2025-05-20,Business,1005,120,47,1172,USD,Failed,Debit Card,Cancelled,E8,Vegetarian meal
+B00259,F00215,P00062,2025-05-09,Business,1837,220,29,2086,USD,Paid,Credit Card,Confirmed,B35,Wheelchair assistance
+B00260,F00097,P00096,2025-04-24,Premium Economy,217,26,45,288,USD,Paid,Debit Card,Confirmed,C34,Infant bassinet
+B00261,F00277,P00032,2025-05-23,Business,887,106,26,1019,USD,Paid,Debit Card,Confirmed,A26,Extra legroom
+B00262,F00155,P00038,2025-06-09,First,3232,387,45,3664,USD,Paid,Debit Card,Confirmed,B6,Vegetarian meal
+B00263,F00174,P00026,2025-06-20,First,948,113,40,1101,USD,Pending,Credit Card,Pending,F12,
+B00264,F00029,P00049,2025-05-10,Business,1530,183,38,1751,USD,Paid,Credit Card,Confirmed,F44,
+B00265,F00458,P00093,2025-07-09,Economy,299,35,46,380,USD,Pending,PayPal,Pending,D35,Wheelchair assistance
+B00266,F00382,P00073,2025-05-06,Premium Economy,459,55,28,542,USD,Paid,Credit Card,Confirmed,E29,Infant bassinet
+B00267,F00310,P00018,2025-05-18,Premium Economy,921,110,21,1052,USD,Pending,Bank Transfer,Pending,E28,Vegetarian meal
+B00268,F00363,P00004,2025-06-12,Business,1480,177,49,1706,USD,Pending,Credit Card,Pending,F26,
+B00269,F00435,P00034,2025-05-16,First,3172,380,30,3582,USD,Paid,Debit Card,Confirmed,E28,Infant bassinet
+B00270,F00070,P00096,2025-06-05,Business,612,73,43,728,USD,Paid,Debit Card,Confirmed,A48,Extra legroom
+B00271,F00054,P00049,2025-05-12,First,3036,364,26,3426,USD,Paid,Debit Card,Confirmed,B29,Wheelchair assistance
+B00272,F00204,P00040,2025-05-01,Premium Economy,1257,150,36,1443,USD,Pending,Credit Card,Pending,B49,
+B00273,F00235,P00039,2025-05-27,Premium Economy,301,36,39,376,USD,Paid,Credit Card,Cancelled,F32,Vegetarian meal
+B00274,F00258,P00078,2025-05-17,Premium Economy,1167,140,40,1347,USD,Paid,Bank Transfer,Confirmed,C10,
+B00275,F00189,P00093,2025-06-22,Premium Economy,1228,147,20,1395,USD,Paid,PayPal,Confirmed,D21,
+B00276,F00110,P00050,2025-06-07,First,1160,139,15,1314,USD,Failed,Bank Transfer,Pending,F41,
+B00277,F00358,P00095,2025-05-15,Economy,617,74,23,714,USD,Failed,Credit Card,Pending,B39,Medical assistance
+B00278,F00460,P00034,2025-06-02,First,2152,258,47,2457,USD,Failed,Credit Card,Pending,C20,
+B00279,F00464,P00047,2025-06-13,First,2396,287,26,2709,USD,Paid,PayPal,Confirmed,D44,Wheelchair assistance
+B00280,F00282,P00036,2025-05-09,Economy,157,18,29,204,USD,Paid,Bank Transfer,Confirmed,F31,
+B00281,F00459,P00007,2025-06-16,Economy,531,63,30,624,USD,Pending,Credit Card,Pending,F33,
+B00282,F00471,P00031,2025-06-03,First,1140,136,25,1301,USD,Paid,Credit Card,Confirmed,F10,Wheelchair assistance
+B00283,F00342,P00013,2025-05-20,Business,857,102,20,979,USD,Paid,Credit Card,Confirmed,D4,Extra legroom
+B00284,F00239,P00004,2025-05-09,Economy,872,104,21,997,USD,Paid,Debit Card,Confirmed,A2,Infant bassinet
+B00285,F00136,P00028,2025-05-09,Economy,822,98,35,955,USD,Pending,Credit Card,Cancelled,F14,Vegetarian meal
+B00286,F00190,P00081,2025-06-20,Economy,790,94,41,925,USD,Pending,Credit Card,Pending,F8,
+B00287,F00042,P00038,2025-05-23,Premium Economy,1041,124,29,1194,USD,Paid,PayPal,Confirmed,C30,
+B00288,F00205,P00048,2025-06-07,Business,1380,165,15,1560,USD,Failed,PayPal,Cancelled,B15,Wheelchair assistance
+B00289,F00126,P00100,2025-05-12,Economy,537,64,46,647,USD,Paid,Credit Card,Confirmed,E4,Infant bassinet
+B00290,F00153,P00030,2025-06-02,Business,1967,236,26,2229,USD,Paid,Credit Card,Confirmed,D41,
+B00291,F00046,P00048,2025-06-27,Economy,282,33,38,353,USD,Failed,Credit Card,Cancelled,B6,Wheelchair assistance
+B00292,F00256,P00007,2025-06-12,Premium Economy,1320,158,29,1507,USD,Paid,Bank Transfer,Confirmed,B26,
+B00293,F00040,P00059,2025-05-22,First,2168,260,23,2451,USD,Paid,Credit Card,Confirmed,A22,Medical assistance
+B00294,F00310,P00098,2025-06-09,First,2456,294,26,2776,USD,Paid,Credit Card,Confirmed,C8,Medical assistance
+B00295,F00179,P00048,2025-05-24,Economy,374,44,42,460,USD,Paid,Credit Card,Confirmed,F43,
+B00296,F00447,P00015,2025-06-14,Business,1622,194,48,1864,USD,Paid,Debit Card,Confirmed,C42,Wheelchair assistance
+B00297,F00173,P00031,2025-05-12,First,2524,302,21,2847,USD,Failed,Bank Transfer,Pending,B41,
+B00298,F00334,P00062,2025-06-19,Economy,487,58,25,570,USD,Paid,Bank Transfer,Confirmed,A18,
+B00299,F00320,P00027,2025-05-20,Economy,779,93,19,891,USD,Pending,Credit Card,Pending,C39,Medical assistance
+B00300,F00165,P00044,2025-05-12,Economy,765,91,18,874,USD,Paid,PayPal,Confirmed,C30,
